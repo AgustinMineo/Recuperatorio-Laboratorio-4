@@ -11,7 +11,8 @@ UserId
 Email
 
 
-Business
+Business :
+
 BusinessId
 Category
 Name
