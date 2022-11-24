@@ -1,0 +1,37 @@
+[
+    {
+        "businessId": 1,
+        "category": "Prueba 1",
+        "name": "test",
+        "email": "test@test.com",
+        "address": "falsa"
+    },
+    {
+        "businessId": 2,
+        "category": "Prueba 2",
+        "name": "Nombre de prueba",
+        "email": "prueba@prueba.com",
+        "address": "prueba falsa 255"
+    },
+    {
+        "businessId": 3,
+        "category": "Prueba 3",
+        "name": "prueba",
+        "email": "prueba@prueba.com",
+        "address": "123121"
+    },
+    {
+        "businessId": 4,
+        "category": "Last test",
+        "name": "test",
+        "email": "test@test.com",
+        "address": "123121"
+    },
+    {
+        "businessId": 5,
+        "category": "last ts",
+        "name": "test",
+        "email": "test@test.com",
+        "address": "123121"
+    }
+]
